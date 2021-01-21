@@ -10,6 +10,7 @@ I am majoring in **Statistics** and Consumer Science. Plus, I have studied Compu
 | External activities | 2019.09 - 2020.06            | Statistical Analysis group P-SAT                                                            | Dept. of Stat in SKKU        | Deep learning team leader and Regression team |
 |                     |                              | If you want to know more about me, please visit [my Notion](https://bit.ly/3bI1w6y).        |                              |                                               |
 
+
 <!--
 **circle-sphere/circle-sphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
