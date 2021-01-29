@@ -1,6 +1,6 @@
 :wave: Hi, my name is Wongu. I am studying to be a data scientist in SKKU. 
   
-I am majoring in **Statistics** and Consumer Science. Plus, I have studied Computer Science since 2018. I have many project experience using **Python** and R. I am interested in ML/DL, especially **NLP and RS**. <!--Nowdays, I am studying text2image model by myself. -->
+I am majoring in **Statistics** and Consumer Science. Plus, I have studied Computer Science since 2018. I have many project experience using **Python** and R. I am interested in ML/DL, especially **NLP and RecSys**. <!--Nowdays, I am studying text2image model by myself. -->
 
 :fire: Career
 | Type                | Date                         | Contents                                                                                    | Organization                 | Etc                                                    |
