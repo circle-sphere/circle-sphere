@@ -3,7 +3,7 @@
 I am majoring in **Statistics** and Consumer Science. Plus, I have studied Computer Science since 2018. I have many project experience using **Python** and R. I am interested in ML/DL, especially **NLP and RecSys**. <!--Nowdays, I am studying text2image model by myself. -->
 
 :fire: Career
-| Type                | Date                         | Contents                                                                                    | Organization                 | Etc                                                    |
+| Type                | Date                         | Contents                                                                                    | Organization                 | ETC                                                    |
 |---------------------|------------------------------|---------------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------|
 | Education           | 2014.03 - 2021.08 (Expected) | Statistics, Consumer Science                                                                | Sungkyunkwan University      |                                                        |
 | Research activities | 2019.10 - 2020.12            | Developing [Environment Big Data Platform](https://www.bigdata-environment.kr/user/main.do) | College of Computing in SKKU | Undergraduate researcher                               |
