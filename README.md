@@ -6,7 +6,7 @@ I am majoring in **Statistics** and Consumer Science in SungKyunKwan University 
 | Type                | Date                         | Contents                                                                                    | Organization                 | ETC                                                    |
 |---------------------|------------------------------|---------------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------|
 | Education           | 2014.03 - 2021.08 (Expected) | Statistics, Consumer Science                                                                | Sungkyunkwan University      |                                                        |
-| Research activities | 2019.10 - 2020.12            | Producing the text data product in [Environment Big Data Platform](https://www.bigdata-environment.kr/user/main.do) | College of Computing in SKKU | Undergraduate researcher                               |
+| Research activities | 2019.10 - 2020.12            | Producing the text data products which are provided in [Environment Big Data Platform](https://www.bigdata-environment.kr/user/main.do) | College of Computing in SKKU | Undergraduate researcher                               |
 | External activities | 2019.09 - 2020.06            | Statistical Analysis group P-SAT                                                            | Dept. of Statistics in SKKU    | Deep learning team leader and Regression analysis team |
 
 If you want to know more about me, please visit [my Notion](https://bit.ly/3bI1w6y).
