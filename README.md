@@ -1,4 +1,4 @@
-:wave: Hi, I'm Wongu Kim who studying to be a data scientist. 
+:wave: Hi, I'm Wongu Kim and studying to be a data scientist. 
   
 I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University in Seoul, S.Korea. Plus, I have studied Computer Science since 2018. I have pretty much project experience using **Python** and R. I'm interested in ML/DL, especially **NLP and RecSys**. <!--Nowdays, I am studying text2image model by myself. -->
 
