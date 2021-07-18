@@ -1,6 +1,6 @@
 :wave: Hi, I'm Wongu Kim and studying to be a data scientist. 
   
-I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science since 2018. I have pretty much project experience using **Python** and R. I'm interested in ML/DL, especially **NLP and RecSys**. <!--Nowdays, I am studying text2image model by myself. -->
+I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science since 2018. I have pretty much project experience using **Python**, R and **SQL**. I'm interested in ML/DL. <!--Nowdays, I am studying text2image model by myself. -->
 
 :fire: Career
 | Type                | Date                         | Contents                                                                                    | Organization                 | ETC                                                    |
@@ -14,7 +14,7 @@ If you want to know more about me, please visit [my Notion](https://bit.ly/3bI1w
 
 <!--
 **circle-sphere/circle-sphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+, especially **NLP and RecSys**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
