@@ -1,9 +1,10 @@
-:wave: Hi, I'm studying to be a keen data scientist. 
+### :wave: Hi, I'm studying to be a keen data scientist. 
   
 I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea.  
 Plus, I have studied Computer Science since 2018. I have done pretty much project experience using **Python**, R and **SQL**.  
 I'm interested in ML/DL and financial fields, especially **XAI** and **NLP**.
-
+  
+  
 ## 📚Education
 #### **Sungkyunkwan University       Seoul, Korea**
   - B.A in Consumer Science and B.E in Statistics       2014.03 – 2021.08 (Expected)
