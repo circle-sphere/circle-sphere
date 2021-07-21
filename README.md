@@ -6,8 +6,8 @@ I'm interested in ML/DL and financial fields, especially **XAI** and **NLP**.
   
   
 ## 📚Education
-#### **Sungkyunkwan University       Seoul, Korea**
-  - B.A in Consumer Science and B.E in Statistics       2014.03 – 2021.08 (Expected)
+#### **Sungkyunkwan University       Seoul, Korea**       2014.03 – 2021.08 (Expected)
+  - B.A in Consumer Science and B.E in Statistics
   
   
 ## 💼Career
