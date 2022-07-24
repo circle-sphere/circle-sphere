@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm corporate data scientist. 
   
-I'm working at NICE Information Service Co., Ltd to analyze corp data.  
+I'm working at NICE Information Service Co., Ltd and analyzing corp data.  
 To be specific, I make corp Credit Rating System(CRS) and consult major banks about it.  
   
 I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science since 2018.  
