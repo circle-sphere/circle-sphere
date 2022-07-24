@@ -6,7 +6,7 @@ To be specific, I make corp Credit Rating System(CRS) and consult major banks ab
 I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science since 2018.  
   
 I'm interested in not only statistical analytics but also Machine Learning or XAI, and have applied them to my past project.  
-Recently, I'm studying how to apply Nerual Network to tabular data efficiently.  
+Recently, I'm studying how to apply Neural Network to tabular data efficiently.  
   
   
 ## 📚Education
