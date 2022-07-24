@@ -1,19 +1,20 @@
-### :wave: Hi, I'm studying to be a keen data scientist. 
+### :wave: Hi, I'm corporate data data scientist. 
   
-I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea.  
-Plus, I have studied Computer Science since 2018. I have done pretty much project experience using **Python**, R and **SQL**.  
-I'm interested in ML/DL and financial fields, especially **XAI** and **NLP**.
+I'm analyzing corporate data at NICE Information Service Co., Ltd to make corp Credit Rating System(CRS) and consult major banks about it.  
+I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science since 2018.  
+I'm interested in not only Statistical Analytics but also Machine Learning. Especially **XAI** and **Deep Learning** to apply it tabular data efficiently.  
   
   
 ## 📚Education
-#### **Sungkyunkwan University       Seoul, Korea**       2014.03 – 2021.08 (Expected)
+#### **Sungkyunkwan University       Seoul, Korea**       2014.03 – 2021.08
   - B.A in Consumer Science and B.E in Statistics
   
   
 ## 💼Career
 #### **Corporate Credit Risk Consultant, *NICE Information Service.***       2021.04 - Present
   - Developing Corporate Credit Scoring System
-  - KB Kookmin Bank ML based Corporate Loan Auto Review System        2021.05 - Present
+  - KB Kookmin Bank ML based Corporate Loan Auto Review System        2021.05 - 2022.07
+  - Woori Bank ML based Corporate Loan Auto Review System             2022.08 - Present
   
   
 ## :fire: Experience Highlights
