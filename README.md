@@ -20,7 +20,7 @@ Recently, I'm studying how to apply Nerual Network to tabular data efficiently.
   - KB Kookmin Bank ML based Corporate Loan Auto Review System        (2021.05 - 2022.07)
     - Developing corporate auto credit review system  
      -> Developing tree models and tabular CNN (using Fine Tuning) based credit review model  
-     -> Developing XAI model using SHAP  
+     -> Developing XAI models using SHAP  
      -> Deploying Function API   
   - Woori Bank ML based Corporate Loan Auto Review System             (2022.08 - Present)
   
