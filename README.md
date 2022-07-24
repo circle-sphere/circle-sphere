@@ -1,4 +1,4 @@
-### :wave: Hi, I'm corporate data data scientist. 
+### :wave: Hi, I'm corporate data scientist. 
   
 I'm analyzing corporate data at NICE Information Service Co., Ltd to make corp Credit Rating System(CRS) and consult major banks about it.  
 I'm majoring in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science since 2018.  
