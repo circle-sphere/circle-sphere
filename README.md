@@ -1,9 +1,9 @@
 ### :wave: Hi, I'm corporate data scientist. 
   
 I'm working at NICE Information Service Co., Ltd and analyzing corp data.  
-To be specific, I make corp Credit Rating System(CRS) and consult major banks about it.  
+To be specific, I develop corp Credit Rating System(CRS) and consult major banks about it.  
   
-I majored in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, S.Korea. Plus, I have studied Computer Science whenever it is necessary.  
+I majored in **Statistics** and Consumer Science in SungKyunKwan University(SKKU) in Seoul, Korea. Plus, I have studied Computer Science whenever it is necessary.  
   
 I'm interested in not only statistical analytics but also Machine Learning or XAI, and have applied them to my past project.  
 Recently, I'm studying how to apply Neural Network to tabular data efficiently.  
